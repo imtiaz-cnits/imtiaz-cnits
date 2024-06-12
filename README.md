@@ -6,8 +6,8 @@ Web Developer | MERN Developer
 
 Coding is in my blood!!🩸 Let's get you a quick tour of my works and coding world exploration. Have been working as a Web Developer since 2018, I know my journey was not very big, but I learned a lot and still learning.
 
-* 🌍  I'm based in Pabna, Bangladesh
-* 🖥️  See my portfolio at [My Official Website](http://www.codenextit.com/)
+* 🌍  CEO & Co-Founder of CodeNext IT
+* 🖥️  See my works at [My Official Website](http://www.codenextit.com/)
 * ✉️  You can contact me at [imtiaz.cnits@gmail.com](mailto:imtiaz.cnits@gmail.com)
 * 🚀  I'm currently working on [SOS Marketplace Dashboard Project](http://imtiaz-cnits.github.io/sos-marketplace-dashboard/)
 * 🧠  I'm learning MERN Stack, Figma, Next.js, Team Management
