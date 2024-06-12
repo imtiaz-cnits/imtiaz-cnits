@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Imtiaz Ahmed
 ====================================================================================================================================
 
-Web Developer | MERN Developer
+MERN Developer | CEO & Co-Founder of CodeNext IT
 ------------------------------
 
 Coding is in my blood!!🩸 Let's get you a quick tour of my works and coding world exploration. Have been working as a Web Developer since 2018, I know my journey was not very big, but I learned a lot and still learning.
 
-* 🌍  CEO & Co-Founder of CodeNext IT
+* 🌍  Acting as CEO & Co-Founder at CodeNext IT
 * 🖥️  See my works at [My Official Website](http://www.codenextit.com/)
 * ✉️  You can contact me at [imtiaz.cnits@gmail.com](mailto:imtiaz.cnits@gmail.com)
 * 🚀  I'm currently working on [SOS Marketplace Dashboard Project](http://imtiaz-cnits.github.io/sos-marketplace-dashboard/)
