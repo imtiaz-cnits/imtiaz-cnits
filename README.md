@@ -9,7 +9,7 @@ Coding is in my blood!!🩸 Let's get you a quick tour of my works and coding wo
 * 🌍  Acting as CEO & Co-Founder at CodeNext IT
 * 🖥️  See my works at [My Official Website](http://www.codenextit.com/)
 * ✉️  You can contact me at [imtiaz.cnits@gmail.com](mailto:imtiaz.cnits@gmail.com)
-* 🚀  I'm currently working on [E-Commerce App with MERN](https://github.com/imtiaz-cnits/e-commerce-app-mern)
+* 🚀  I'm currently working on [ABC Computers E-Commerce App with MERN](https://github.com/imtiaz-cnits/abc-computers-ecomm-app)
 * 🧠  I'm learning MERN Stack, Figma, Next.js, Team Management
 * 🤝  I'm open to collaborating on Web Dev Projects
 * ⚡  By the way, I love playing 🏏Cricket🏏
