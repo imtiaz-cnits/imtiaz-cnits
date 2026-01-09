@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,php,laravel,wordpress,mysql,tailwind,bootstrap,git,github,vscode,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,redux,nodejs,express,mongodb,php,laravel,wordpress,mysql,postgresql,supabase,tailwind,bootstrap,git,github,vscode,webstorm,figma&perline=12" />
 </div>
 
 <br/>
