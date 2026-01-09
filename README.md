@@ -52,8 +52,23 @@
 <br/>
 
 <div align="center">
-  <h3>🏆 Achievements</h3>
-  <img src="https://github-profile-achievements.vercel.app/?user=imtiaz-cnits&theme=tokyonight" alt="My Achievements" />
+  <h3>🏆 Professional Highlights</h3>
+  
+  <img src="https://img.shields.io/badge/MERN_Stack-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Instructor-CodeNext_IT-FF5722?style=for-the-badge&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Freelancer-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Projects_Completed-20+-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Experience-3+_Years-purple?style=for-the-badge&logo=polywork" />
+  <img src="https://img.shields.io/badge/Focus-Web_Development-success?style=for-the-badge&logo=codesandbox" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/imtiaz-cnits/imtiaz-cnits/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br/>
@@ -66,6 +81,9 @@
   </a>
   <a href="mailto:imtiaz.cnits@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:imtiaz.cnits@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
   <a href="YOUR_PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
