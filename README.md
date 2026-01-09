@@ -60,7 +60,7 @@
   
   <br/>
   
-  <img src="https://img.shields.io/badge/Projects_Completed-120+-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Projects_Completed-220+-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Experience-8+_Years-purple?style=for-the-badge&logo=polywork" />
   <img src="https://img.shields.io/badge/Focus-Web_Development-success?style=for-the-badge&logo=codesandbox" />
 </div>
