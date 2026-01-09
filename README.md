@@ -53,7 +53,7 @@
 
 <div align="center">
   <h3>🏆 Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=imtiaz-cnits&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-achievements.vercel.app/?user=imtiaz-cnits&theme=tokyonight" alt="My Achievements" />
 </div>
 
 <br/>
@@ -61,7 +61,7 @@
 ### 🔗 Connect with Me
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/imtiaz-cnits/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:imtiaz.cnits@gmail.com">
