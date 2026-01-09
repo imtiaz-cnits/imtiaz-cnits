@@ -28,16 +28,32 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imtiaz-cnits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaz-cnits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <h3>📊 GitHub Stats & Summary</h3>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=imtiaz-cnits&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streak graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imtiaz-cnits&theme=tokyonight" alt="profile-details" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imtiaz-cnits&theme=tokyonight" alt="repos-per-language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imtiaz-cnits&theme=tokyonight&utcOffset=6" alt="productive-time" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imtiaz-cnits&theme=tokyonight" alt="most-commit-language" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🏆 Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=imtiaz-cnits&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br/>
