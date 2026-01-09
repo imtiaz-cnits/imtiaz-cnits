@@ -31,12 +31,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imtiaz-cnits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=imtiaz-cnits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaz-cnits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiaz-cnits&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=imtiaz-cnits&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streak graph" />
 </div>
 
 <br/>
