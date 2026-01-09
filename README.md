@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Imtiaz%20Ahmed&fontSize=70&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20CodeNext%20IT&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Imtiaz%20Ahmed&fontSize=70&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20CodeNext%20IT&descAlignY=60&descAlign=50&font=Geist" width="100%"/>
 </div>
 
 <div align="center">
@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Modern Authentication Module with MERN[https://github.com/imtiaz-cnits/themesjet]**
-- 🏢 Founder & CEO at **CodeNext IT**
+- 🔭 I’m currently working on [**Themes Jet Official Websiite**](https://github.com/imtiaz-cnits/themesjet)
+- 🏢 Founder & CEO at [**CodeNext IT**](https://www.codenextit.com/)
 - 🌱 I’m currently learning **Next.js, Docker & Cloud Architecture**
-- 💬 Ask me about **Next.js, Project Management, UX, and WordPress**
+- 💬 Ask me about **React, Node.js, Laravel, and WordPress**
 - 📫 How to reach me: **imtiaz.cnits@gmail.com**
 
 <br/>
@@ -60,7 +60,7 @@
   
   <br/>
   
-  <img src="https://img.shields.io/badge/Projects_Completed-220+-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Projects_Completed-120+-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Experience-8+_Years-purple?style=for-the-badge&logo=polywork" />
   <img src="https://img.shields.io/badge/Focus-Web_Development-success?style=for-the-badge&logo=codesandbox" />
 </div>
