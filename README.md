@@ -10,8 +10,8 @@ Coding is in my blood!!🩸 Let's get you a quick tour of my works and coding wo
 * 🖥️  See my works at [My Official Website](http://www.codenextit.com/)
 * ✉️  You can contact me at [imtiaz.cnits@gmail.com](mailto:imtiaz.cnits@gmail.com)
 * 🚀  I'm currently working on [Themes Jet Web App](https://github.com/imtiaz-cnits/themesjet)
-* 🧠  I'm learning MERN Stack, Figma, Next.js, Team Management
-* 🤝  I'm open to collaborating on Web Dev Projects
+* 🧠  I'm learning MERN Stack, Next.js, Supabase, PostgreSQL, MySQL, Shadcn UI, Team Management
+* 🤝  I'm open to collaborating on Web Application Projects
 * ⚡  By the way, I love playing 🏏Cricket🏏
 
 <a href="https://www.github.com/imtiaz-cnits" target="_blank" rel="noreferrer"><img
