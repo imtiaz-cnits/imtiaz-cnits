@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [**Themes Jet Official Websiite**](https://github.com/imtiaz-cnits/themesjet)
 - 🏢 Founder & CEO at [**CodeNext IT**](https://www.codenextit.com/)
-- 🌱 I’m currently learning **Next.js, Docker & Cloud Architecture**
+- 🌱 I’m currently learning **Next.js, PostgreSQL/Supabase, Docker & Cloud Architecture**
 - 💬 Ask me about **React, Node.js, Laravel, and WordPress**
 - 📫 How to reach me: **imtiaz.cnits@gmail.com**
 
