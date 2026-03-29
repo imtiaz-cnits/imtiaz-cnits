@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on [**Themes Jet Official Websiite**](https://github.com/imtiaz-cnits/themesjet)
+- 🔭 I’m currently working on [**Traders SME - Trading Web Application**](https://github.com/imtiaz-cnits/trader-sme-webapp)
 - 🏢 Founder & CEO at [**CodeNext IT**](https://www.codenextit.com/)
 - 🌱 I’m currently learning **Next.js, PostgreSQL/Supabase, Docker & Cloud Architecture**
 - 💬 Ask me about **Next.js, React.js, Project Management, and WordPress**
