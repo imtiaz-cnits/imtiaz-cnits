@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Imtiaz%20Ahmed&fontSize=70&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20CodeNext%20IT&descAlignY=60&descAlign=50&font=Geist" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Imtiaz%20Ahmed&fontSize=70&fontAlignY=35&desc=MERN%20and%20TALL%20Stack%20Developer%20%7C%20CodeNext%20IT&descAlignY=60&descAlign=50&font=Geist" width="100%"/>
 </div>
 
 <div align="center">
@@ -12,10 +12,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on [**Traders SME - Trading Journal App**](https://github.com/imtiaz-cnits/trader-sme-webapp)
+- 🔭 I’m currently working on [**MACS School - School Management System**](https://github.com/imtiaz-cnits/macs-school)
 - 🏢 Founder & CEO at [**CodeNext IT**](https://www.codenextit.com/)
-- 🌱 I’m currently learning **Next.js, PostgreSQL/Supabase, Docker & Cloud Architecture**
-- 💬 Ask me about **Next.js, React.js, Project Management, and WordPress**
+- 🏢 Head of IT Department at [**The Ultrasound Source**](https://theultrasoundsource.com/)
+- 🏢 COO at [**Injaazh**](https://injaazh.com/)
+- 🌱 I’m currently learning **Python, Cloud Server Maintainance, Docker & Cloud Architecture**
+- 💬 Ask me about **Next.js, React.js, PHP, Laravel, Alpine.js, SEO, Project Management, and WordPress**
 - 📫 How to reach me: **imtiaz.cnits@gmail.com**
 
 <br/>
