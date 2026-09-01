@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [**MACS School - School Management System**](https://github.com/imtiaz-cnits/macs-school)
 - 🏢 Founder & CEO at [**CodeNext IT**](https://www.codenextit.com/)
 - 🏢 Head of IT Department at [**The Ultrasound Source**](https://theultrasoundsource.com/)
-- 🏢 COO at [**Injaazh**](https://injaazh.com/)
+- 🏢 Chief Operating Officer at [**Injaazh**](https://injaazh.com/)
 - 🌱 I’m currently learning **Python, Cloud Server Maintainance, Docker & Cloud Architecture**
 - 💬 Ask me about **Next.js, React.js, PHP, Laravel, Alpine.js, SEO, Project Management, and WordPress**
 - 📫 How to reach me: **imtiaz.cnits@gmail.com**
